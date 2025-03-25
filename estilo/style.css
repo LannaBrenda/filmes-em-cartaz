@@ -1,0 +1,44 @@
+* {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.estreia-hoje a {
+  color: blue;
+}
+.estreia-hoje a:hover {
+  color: rgb(3, 3, 141);
+}
+
+.estreia-amanha a {
+  color: red;
+}
+.estreia-amanha a:hover {
+  color: darkred;
+}
+
+h2 a {
+  color: rgb(62, 186, 116);
+}
+h2 a:hover {
+  color: rgb(1, 136, 1);
+}
+
+p {
+  font-size: 20px;
+  margin-left: 25px;
+}
+
+.estados {
+  font-size: 25px;
+  margin-right: 30px;
+  margin-left: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: orange;
+}
+.estados:hover {
+  color: rgb(210, 117, 4);
+}

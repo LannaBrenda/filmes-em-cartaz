@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+}
+img {
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 10px;
+  height: 500px;
+  float: left;
+  border-radius: 5px;
+}
+
+
+p {
+  font-size: 15px;
+}
+
+.sinopse {
+  margin-top: 3px;
+  width: 690px;
+}
+.info-filme {
+  width: 750px;
+  height: 520px;
+  background-color: lightgray;
+}
